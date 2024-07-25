@@ -1,6 +1,6 @@
 # Giovanna de Oliveira
 
-👩‍💻 Aspirante a Fullstack, entusiasta de Valorant, mod/admin e suporte técnico do [Projeto Jogar é Coisa de Garota](https://linktr.ee/projetojcg)! Atualmente, explorando o desenvolvimento no Front-end e participando do Bootcamp Santander - Backend com Java. Let's code and game on! 🚀 #CodingLife #ValorantFan
+👩‍💻 Aspirante a Fullstack, entusiasta de Valorant, mod/admin e suporte técnico do [Projeto Jogar é Coisa de Garota](https://linktr.ee/projetojcg)! Atualmente, explorando o desenvolvimento no Front-end e desenvolvimento Backend com Java. Let's code and game on! 🚀 #CodingLife #ValorantFan
 
 ### ♥ Conecte-se comigo☺
 
